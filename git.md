@@ -185,7 +185,7 @@ git status
 ```
 
 /////
-## Tracking new files
+## Tracking / saving new files
 ```
 git add
 ```
