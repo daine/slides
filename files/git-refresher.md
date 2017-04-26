@@ -145,12 +145,12 @@ V
 |<br />
 V
 </div>
-<div class="fragment">[Stage changes]</div>
+<div class="fragment">[Stage/Commit merged changes]</div>
 <div class="fragment">
 |<br />
 V
 </div>
-<div class="fragment">[Commit changes]</div>
+<div class="fragment">[Push commits]</div>
 NOTES
 - Pull remote changes to make sure you have the most current version if anyone changes something
 - If there are new changes, git will automatically merge them if possible
