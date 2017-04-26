@@ -128,6 +128,8 @@ V
 V
 </div>
 <div class="fragment">[Commit changes]</div>
+
+NOTES
 - Working = active development
 - Staging - clean up code for committing
 - Commit - Ready for the whole world to look at, hey, you're committed!
